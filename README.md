@@ -4,6 +4,7 @@
 
 ## Installation
  - `git clone https://github.com/Dizabanik/netman.git`
+ - `cd netman/`
  - `sudo chmod +x netman.sh`
 
 ## Usage
