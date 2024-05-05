@@ -8,4 +8,5 @@
 
 ## Usage
 Use simple menu provided in the app
+
 Simply run `./netman.sh`
